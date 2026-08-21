@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Next.js and local environment files
+.next/
+out/
+node_modules/
+tsconfig.tsbuildinfo
+playwright-report/
+test-results/
+.env.local
+.env*.local

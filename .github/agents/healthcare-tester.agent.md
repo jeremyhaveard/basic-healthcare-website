@@ -16,3 +16,9 @@ Return:
 1. Checks run and their result.
 2. Reproducible failures with affected files or features.
 3. Untested areas and the reason they remain untested.
+
+End every response with exactly one of:
+
+`VERDICT: PASS`
+
+`VERDICT: BLOCKED`

@@ -13,3 +13,9 @@ Review the current workspace without editing it. Use supplied Jira and Figma han
 Do not modify files, approve your own assumptions, or report style preferences as defects. Do not claim Jira or Figma evidence that was not provided.
 
 Return findings first, ordered by severity. Each finding must include the affected file, the concrete risk, and a fix recommendation. Then list passed checks, missing evidence, and any residual risk. State clearly when there are no blocking findings.
+
+End every response with exactly one of:
+
+`VERDICT: PASS`
+
+`VERDICT: BLOCKED`
