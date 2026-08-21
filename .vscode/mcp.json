@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "figma": {
+      "type": "http",
+      "url": "https://mcp.figma.com/mcp"
+    },
+    "jira": {
+      "type": "http",
+      "url": "https://mcp.atlassian.com/v1/mcp"
+    },
+    "github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
